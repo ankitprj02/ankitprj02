@@ -1,3 +1,10 @@
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ankit+Prajapati..;Android+Developer+@PapayaCoders;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitprj02&label=Profile%20views&color=0e75b6&style=flat" alt="ankitprj02" /> </p>
 
 - 🔭 I’m currently working with [Papaya Coders](https://papayacoders.in/)
@@ -11,10 +18,7 @@
 - ⚡ Fun fact **I think you can,t ignore me.**
 
 
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ankit+Prajapati..;Android+Developer+@PapayaCoders;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+
 
     
 # 🖥️ Technical Skills: 
@@ -147,4 +151,4 @@
 
 
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/ankitprj02.ankitprj02.svg)
+
