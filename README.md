@@ -1,17 +1,16 @@
-<!--
-**MdNadeemSarwar/MdNadeemSarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitprj02&label=Profile%20views&color=0e75b6&style=flat" alt="ankitprj02" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with [Papaya Coders](https://papayacoders.in/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Advance android development,Flutter,Web app development,javascript,ReactJs**
+
+- 💬 Ask me about **All stuffs in android**
+
+- 📫 How to reach me **ankitprjsoft@gmail.com**
+
+- ⚡ Fun fact **I think you can,t ignore me.**
+
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ankit+Prajapati..;Android+Developer+@PapayaCoders;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
