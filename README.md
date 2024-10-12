@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with [Papaya Coders](https://papayacoders.in/)
 
-- 🌱 I’m currently learning **Advance android development,Flutter,Web app development,javascript,ReactJs**
+- 🌱 I’m currently learning **Advance android development**
 
 - 💬 Ask me about **All stuffs in android**
 
