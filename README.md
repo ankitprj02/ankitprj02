@@ -5,15 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitprj02&label=Profile%20views&color=0e75b6&style=flat" alt="ankitprj02" /> </p>
 
 
-- 🔭 I’m currently working with [Papaya Coders](https://papayacoders.in/)
 
-- 🌱 I’m currently learning **Advance android development**
-
-- 💬 Ask me about **All stuffs in android**
-
-- 📫 How to reach me **ankitprjsoft@gmail.com**
-
-- ⚡ Fun fact **I think you can,t ignore me.**
 
 
 ---
